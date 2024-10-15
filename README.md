@@ -38,7 +38,7 @@ A comprehensive MLOps platform designed for deploying, monitoring, and maintaini
 5. **System Architecture**  
    The platform follows a modular design with FastAPI, Streamlit, Docker, and AWS ECS integration for scalable deployment.
 
-   ![System Architecture](image/image3.jpeg)
+   ![System Architecture](image/image3.jpg)
 
 ### What's Next?
 - Integration with alerting systems (e.g., Slack, Email)
