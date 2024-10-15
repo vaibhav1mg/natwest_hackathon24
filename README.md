@@ -14,7 +14,7 @@ A comprehensive MLOps platform designed for deploying, monitoring, and maintaini
 1. **Central Dashboard**  
    The dashboard provides real-time monitoring of key model metrics such as accuracy, precision, recall, and ROC AUC.
 
-   ![Dashboard Overview](image/image1.jpeg)
+   ![Dashboard Overview](image/image1.png)
 
 2. **Guardrails**  
    Monitor and manage model performance with guardrails, including:
@@ -29,7 +29,7 @@ A comprehensive MLOps platform designed for deploying, monitoring, and maintaini
    - Average Response Time
    - System Health Metrics (CPU, Memory, Disk Usage)
 
-   ![Observability Metrics](image/image2.jpeg)
+   ![Observability Metrics](image/image2.png)
 
 
 4. **Explainability**  
