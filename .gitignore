@@ -1,0 +1,8 @@
+# ignore .venv and __pycache__ directories
+.venv
+__pycache__
+# Ignore large datasets
+datasets/fraudTest.csv
+datasets/fraudTrain.csv
+datasets/fraudTest.csv
+datasets/fraudTrain.csv

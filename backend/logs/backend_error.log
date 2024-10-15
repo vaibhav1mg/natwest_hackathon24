@@ -1,0 +1,1584 @@
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.
+/usr/local/lib/python3.11/site-packages/pydantic/_internal/_fields.py:132: UserWarning: Field "model_version" in ModelDetail has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 119, in get_latest_model_and_files
+    raise FileNotFoundError("No model files found.")
+FileNotFoundError: No model files found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/backend/main2.py", line 218, in <module>
+    model, scaler, merchant_encoder, category_encoder, gender_encoder, job_encoder, latest_model_file = get_latest_model_and_files()
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/main2.py", line 151, in get_latest_model_and_files
+    raise HTTPException(status_code=500, detail=f"Error loading latest model: {str(e)}")
+fastapi.exceptions.HTTPException: 500: Error loading latest model: No model files found.

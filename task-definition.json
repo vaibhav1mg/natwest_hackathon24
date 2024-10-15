@@ -1,0 +1,29 @@
+{
+    "family": "natwest-app-task",
+    "networkMode": "awsvpc",
+    "containerDefinitions": [
+        {
+            "name": "natwest-app-container",
+            "image": "277786224624.dkr.ecr.ap-south-1.amazonaws.com/natwest-app",
+            "essential": true,
+            "portMappings": [
+                {
+                    "containerPort": 8000,
+                    "protocol": "tcp"
+                },
+                {
+                    "containerPort": 8501,
+                    "protocol": "tcp"
+                }
+            ],
+            "memory": 4096,
+            "cpu": 1024
+        }
+    ],
+    "requiresCompatibilities": [
+        "FARGATE"
+    ],
+    "cpu": "1024",
+    "memory": "4096",
+    "executionRoleArn": "arn:aws:iam::277786224624:role/ecsTaskExecutionRole"
+}
