@@ -41,11 +41,8 @@ A comprehensive MLOps platform designed for deploying, monitoring, and maintaini
    ![System Architecture](image/image3.jpg)
 
 ### What's Next?
-- Integration with alerting systems (e.g., Slack, Email)
+- Integration with more alerting systems (e.g., Slack, Discord)
 - Support for multiple models
-- Retraining and hyperparameter tuning via the dashboard
-- Cloud integration for seamless scaling
-- Enhanced security and compliance features (e.g., HTTPS, user authentication)
 
 ### Getting Started
 
